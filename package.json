@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq-with-nodejs",
+  "version": "1.0.0",
+  "description": "This shows the usage of message Broker (RabbitMQ) with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajafik/RabbitMQ-with-NodeJS.git"
+  },
+  "author": "Oluwafikayo Ajayi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajafik/RabbitMQ-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/ajafik/RabbitMQ-with-NodeJS#readme"
+}
