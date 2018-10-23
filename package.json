@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ajafik/RabbitMQ-with-NodeJS/issues"
   },
-  "homepage": "https://github.com/ajafik/RabbitMQ-with-NodeJS#readme"
+  "homepage": "https://github.com/ajafik/RabbitMQ-with-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
