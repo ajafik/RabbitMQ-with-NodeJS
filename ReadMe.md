@@ -1,5 +1,9 @@
-# Usage of RabbitMQ with NodeJS
+# RabbitMQ with NodeJS
 
+-- Technology used
+> Express
+> RabbitMQ
+> NodeJS
 
 MIT License
 
